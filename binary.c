@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_binary - Prints an unsigned number in binary.
  * @ip: A pointer to an unsigned int
